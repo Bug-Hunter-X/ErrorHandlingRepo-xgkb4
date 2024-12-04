@@ -1,0 +1,1 @@
+This repository contains an example of a common ActionScript 3 bug that causes a VerifyError. The bug occurs when a variable is accessed that has not been properly initialized, and is null. The solution demonstrates how to prevent this error by checking if the variable is null before attempting to access it.
